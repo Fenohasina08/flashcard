@@ -1,9 +1,8 @@
-const Flashcard = () => {
+const Content = () => {
   return (
     <div className="w-full h-full flex items-center justify-center text-2xl">
-      Flashcard
+      Content
     </div>
   );
-}
-
-export default Flashcard;
+}  
+export default Content;
